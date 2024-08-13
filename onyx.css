@@ -1,0 +1,21 @@
+
+body{
+    width: 100pc;
+    padding: 0;
+}
+.container {
+    display: flex;
+    width: 100pc;
+    flex-flow: column;
+    align-items: center;
+}
+
+
+
+.frame{
+    
+}
+
+img {
+    height: 50pc;
+}
